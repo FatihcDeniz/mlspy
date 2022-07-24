@@ -38,4 +38,4 @@ In the future, I am planning to add deep learning methods such as Neural Network
 
 ## How to use it:
 
-You can test performance of each algorithms easily by using `testing.py` file with many popular datasets using sklearn dataset library.
+You can test performance of each algorithms easily by using `testing.py` file with many popular datasets using sklearn data sets.
