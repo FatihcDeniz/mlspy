@@ -1,4 +1,3 @@
-from re import T
 import numpy as np
 from sklearn.tree import DecisionTreeRegressor, DecisionTreeClassifier
 import seaborn as sns
