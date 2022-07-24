@@ -4,7 +4,7 @@
 
 ## Description:
 
-This is a project that aims to implement machine learning and deep learning models, and statistical testing methods from scratch only using `NumPy` and `python`. First, I started to implement common machine learning algorithms such as Linear Models and Support Vector Machines to understand them better, get a better mathematical intuition about how they work and develop my python skills further. During this process, I realized it is really fun to deep dive into the algorithms, and I learned a lot about mathematics, implementation, and structures of these algorithms. So, I started implementing more and more. Then I wanted to expand also this to statistical models to learn more about them. Currently, there are more than 20 machine learning algorithms implemented, but no statistical models. But in the future whenever I have time I will try to add more and more. 
+This is a project that aims to implement machine learning and deep learning models, and statistical testing methods from scratch only using `NumPy` and `python`. First, I started to implement common machine learning algorithms such as Linear Models and Support Vector Machines to understand them better, get a better mathematical intuition about how they work and develop my python skills further. During this process, I realized it is really fun to deep dive into the algorithms, and I learned a lot about mathematics, implementation, and structures of these algorithms. So, I started implementing more and more. In the future I want to expand this to statistical models. Currently, there are more than 20 machine learning algorithms implemented, but no statistical models. But in the future whenever I have time I will try to add more and more. 
 
 ## What Algorithms are impelements:
 
